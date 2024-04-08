@@ -17,10 +17,3 @@ Execute o script Python analise_ibovespa.py.
 O script baixará os dados históricos do Índice Bovespa, fará a decomposição sazonal e plotará os resultados.
 ## Exemplo de Saída
 O gráfico resultante mostra a série temporal observada, a tendência e outros componentes da decomposição sazonal.
-
-
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
-
-Licença
-Este projeto está licenciado sob a MIT License.
